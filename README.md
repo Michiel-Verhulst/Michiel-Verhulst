@@ -48,7 +48,4 @@ I'm a Computer Science student from Belgium 📍
 
 ### 🔥 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=michiel-verhulst&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michiel-Verhulst&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
