@@ -4,7 +4,7 @@
 <div id="badges">
  
 </div>
-  <img src="https://komarev.com/ghpvc/?username=michiel-verhulst&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=michiel-verhulst&style=for-the-badge&color=red" alt=""/>
   
   <h2>Hello 👋</h2>
 </div>
