@@ -6,11 +6,11 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=michiel-verhulst&style=for-the-badge&color=red" alt=""/>
   
-  <h2>Hello 👋</h2>
+  <h2>Hello :wave:</h2>
 </div>
 
 ### :man_technologist: About Me
-I'm a Computer Science student from Belgium 📍
+I'm a Computer Science student from Belgium :pushpin:
 
 ---
 
@@ -46,6 +46,5 @@ I'm a Computer Science student from Belgium 📍
 
 ---
 
-### 🔥 Stats
+### :fire: Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michiel-Verhulst&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
