@@ -48,3 +48,4 @@ I'm a Computer Science student from Belgium :pushpin:
 
 ### :fire: Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiel-verhulst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
