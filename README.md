@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Michiel Verhulst from Belgium<br><br>📚 I'm currently a student at UC Leuven-Limburg for my bachelors degree in Applied Computer Science.</p>
+<p align="left">I'm Michiel Verhulst from Belgium<br><br>📚 I'm currently a student at KU Leuven for my Master of Information Management.</p>
 
 ---
 ###
